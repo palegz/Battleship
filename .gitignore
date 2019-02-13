@@ -30,3 +30,6 @@
 *.exe
 *.out
 *.app
+/.vs/Battleship/v15
+/Battleship
+/.vs
