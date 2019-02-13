@@ -3,7 +3,7 @@
 
 
 //Main tiedosto josta kutsutaan funktiota joka pyörittää koko kokonaisuutta
-s
+
 int main() {
-	gameMenu();
+	gameMasterLoop();  //Vastuu pelin pyörittämisestä
 }
